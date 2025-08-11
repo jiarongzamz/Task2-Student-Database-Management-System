@@ -11,10 +11,16 @@ A PostgreSQL database system for managing comprehensive student information incl
   - Task2_3_Query_Results.png
 
 ## Implementation Tasks
-1. Database Setup: Created student_table with comprehensive student information fields.
-2. Data Entry: Inserted 10 sample student records with varied academic data.
-3. Query Implementation: Developed specific queries for data analysis and retrieval.
-4. Table Management: Performed table modification and advanced queries.
+1. Database Setup: Create database and student table with required fields
+2. Data Entry: Insert 10 sample records
+3. Student Information Retrieval: Sort all records by grade in descending order
+4. Male Students Query: Retrieve all male students' information
+5. GPA Analysis: Fetch details of students with GPA less than 5.0
+6. Record Update: Modify email and grade for specific student
+7. Grade B Analysis: Get names and ages of students with grade "B"
+8. Department Statistics: Calculate average GPA by Department and Gender
+9. Table Renaming: Change table name to "student_info"
+10. Top Performance: Find student with highest GPA
 
 ## Results
 Implementation tested with sample data. See screenshots for query results.

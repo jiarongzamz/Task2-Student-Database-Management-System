@@ -4,11 +4,18 @@
 A PostgreSQL database system for managing comprehensive student information including academic performance and personal details through a single detailed table.
 
 ## Project Structure
-- `student_database_system.sql`: SQL implementation
+- `student_database_system.sql`: Main SQL code file
 - Screenshots:
   - Task2_1_Database_Setup.png
   - Task2_2_Data_Entry.png
-  - Task2_3_Query_Results.png
+  - Task2_3_Student_Sort.png
+  - Task2_4_Male_Students.png
+  - Task2_5_Low_GPA.png
+  - Task2_6_Update_Record.png
+  - Task2_7_Grade_B.png
+  - Task2_8_Dept_Stats.png
+  - Task2_9_Table_Rename.png
+  - Task2_10_Highest_GPA.png
 
 ## Implementation Tasks
 1. Database Setup: Create database and student table with required fields

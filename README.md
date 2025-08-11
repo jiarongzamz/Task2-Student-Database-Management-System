@@ -30,4 +30,6 @@ A PostgreSQL database system for managing comprehensive student information incl
 10. Top Performance: Find student with highest GPA
 
 ## Results
-Implementation tested with sample data. See screenshots for query results.
+All functionalities have been implemented and documented with corresponding screenshots.
+
+    
